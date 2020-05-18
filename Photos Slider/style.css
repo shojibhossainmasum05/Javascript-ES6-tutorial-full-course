@@ -1,0 +1,20 @@
+.style{
+    background-color:yellow;
+    height: 30px;
+    box-shadow: 2px 2px 5px grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 5%;
+}
+
+.style2{
+    background-color:yellow;
+    height: 30px;
+    box-shadow: 2px 2px 5px grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text-style{
+    text-align: center;
+    color: rgb(41, 28, 235);
+    margin-top: 150px;
+}

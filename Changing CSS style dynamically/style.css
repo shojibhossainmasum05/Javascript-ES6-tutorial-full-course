@@ -1,0 +1,17 @@
+.style-id{
+
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    color: rgba(255, 0, 0, 0.945);
+    font-family: monospace;
+
+}
+
+.style{
+    background: green;
+}
+
+.style1{
+    background: red;
+}
